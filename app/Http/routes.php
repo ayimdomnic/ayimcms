@@ -14,3 +14,15 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/what-we-do', function(){
+	return view('WhatWeDo');
+});
+
+Route::get('/what-we-have-done', function(){
+	return view('portfolio');
+});
+
+Route::get('/talk-to-us', function(){
+	return view('contact');
+});
