@@ -1,0 +1,15 @@
+{
+    "name": "ayimdomnic/ayimcms",
+    "description": "A simple Quick CMS for Websites, WebApps and APIs",
+    "type": "project",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Odhiambo Dormnic",
+            "email": "ayimdomnic@outlook.com"
+        }
+    ]
+}
